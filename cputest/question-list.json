@@ -1,6 +1,6 @@
 {
 	"code": 0,
-	"msg", "success",
+	"msg": "success",
 	"data": [
 		{
 			"title": "C语言",
