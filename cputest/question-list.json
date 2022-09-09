@@ -1,0 +1,42 @@
+{
+	"code": 0,
+	"msg", "success",
+	"data": [
+		{
+			"title": "C语言",
+			"status": 0,
+			"url": "https://aivenli.github.io/cputest/c/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon_c.jpg"
+		},
+		{
+			"title": "C++",
+			"status": 0,
+			"url": "https://aivenli.github.io/cputest/cpp/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon_cpp.jpg"
+		},
+		{
+			"title": "Java",
+			"status": 0,
+			"url": "https://aivenli.github.io/cputest/java/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon_java.jpg"
+		},
+		{
+			"title": "数据库设计",
+			"status": 1,
+			"url": "",
+			"iconUrl": ""
+		},
+		{
+			"title": "Office",
+			"status": 1,
+			"url": "",
+			"iconUrl": ""
+		},
+		{
+			"title": "测试",
+			"status": 1,
+			"url": "",
+			"iconUrl": ""
+		},
+	]
+}
