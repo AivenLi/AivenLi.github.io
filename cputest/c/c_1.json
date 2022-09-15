@@ -72,6 +72,46 @@
 					"index": 3
 				}
 			]
+		},
+		"title": "下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题[image]图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
+			"mode": 1,
+			"answer": 0,
+			"answerList": [
+				0,
+				3,
+				5
+			],
+			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
+			"chooseList": [
+				{
+					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
+					"index": 0
+				},
+				{
+					"title": "B. 选B",
+					"index": 1
+				},
+				{
+					"title": "C. 选C",
+					"index": 2
+				},
+				{
+					"title": "D. 选D",
+					"index": 3
+				},
+				{
+					"title": "D. 选E",
+					"index": 4
+				},
+				{
+					"title": "D. 选F",
+					"index": 5
+				},
+				{
+					"title": "D. 选G",
+					"index": 6
+				}
+			]
 		}
 	]
 }
