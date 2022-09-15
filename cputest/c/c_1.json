@@ -1,0 +1,77 @@
+{
+	"code": 0,
+	"msg": "success",
+	"data": [
+		{
+			"title": "下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题[image]图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
+			"mode": 0,
+			"answer": 0,
+			"answerList": null,
+			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
+			"chooseList": [
+				{
+					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
+					"index": 0
+				},
+				{
+					"title": "B. 选B",
+					"index": 1
+				},
+				{
+					"title": "C. 选C",
+					"index": 2
+				},
+				{
+					"title": "D. 选D",
+					"index": 3
+				}
+			]
+		},
+		{
+			"title": "[image]上图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题，图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
+			"mode": 0,
+			"answer": 0,
+			"answerList": null,
+			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.2qqtouxiang.com%2Fpic%2FBZ7187_09.jpg&refer=http%3A%2F%2Fimg.2qqtouxiang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665026279&t=fba21c98425bc2e497aaee6218969f3c",
+			"chooseList": [
+				{
+					"title": "A. 选A",
+					"index": 0
+				},
+				{
+					"title": "B. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
+					"index": 1
+				},
+				{
+					"title": "C. 选C",
+					"index": 2
+				}
+			]
+		},
+		{
+			"title": "下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题，图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。[image]",
+			"mode": 0,
+			"answer": 0,
+			"answerList": null,
+			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
+			"chooseList": [
+				{
+					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
+					"index": 0
+				},
+				{
+					"title": "B. 选B",
+					"index": 1
+				},
+				{
+					"title": "C. 选C",
+					"index": 2
+				},
+				{
+					"title": "D. 选D",
+					"index": 3
+				}
+			]
+		}
+	]
+}
