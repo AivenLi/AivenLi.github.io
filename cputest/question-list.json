@@ -3,40 +3,46 @@
 	"msg": "success",
 	"data": [
 		{
-			"title": "C语言",
+			"title": "C语言程序设计",
 			"status": 0,
 			"url": "https://aivenli.github.io/cputest/c/list.json",
-			"iconUrl": "https://aivenli.github.io/cputest/icon_c.jpg"
+			"iconUrl": "https://aivenli.github.io/cputest/icon/c_icon.png"
 		},
 		{
-			"title": "C++",
+			"title": "C++语言程序设计",
 			"status": 0,
 			"url": "https://aivenli.github.io/cputest/cpp/list.json",
-			"iconUrl": "https://aivenli.github.io/cputest/icon_cpp.jpg"
+			"iconUrl": "https://aivenli.github.io/cputest/icon/cpp_icon.png"
 		},
 		{
-			"title": "Java",
+			"title": "Java语言程序设计",
 			"status": 0,
 			"url": "https://aivenli.github.io/cputest/java/list.json",
-			"iconUrl": "https://aivenli.github.io/cputest/icon_java.jpg"
+			"iconUrl": "https://aivenli.github.io/cputest/icon/java_icon.png"
 		},
 		{
-			"title": "数据库设计",
-			"status": 1,
-			"url": "",
-			"iconUrl": ""
+			"title": "MySQL数据库设计",
+			"status": 0,
+			"url": "https://aivenli.github.io/cputest/mysql/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon/mysql_icon.png"
 		},
 		{
-			"title": "Office",
-			"status": 1,
-			"url": "",
-			"iconUrl": ""
+			"title": "Ms Office高级应用",
+			"status": 0,
+			"url": "https://aivenli.github.io/cputest/office/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon/office_icon.png"
 		},
 		{
-			"title": "测试",
+			"title": "Access数据库设计",
 			"status": 1,
-			"url": "",
-			"iconUrl": ""
+			"url": "https://aivenli.github.io/cputest/access/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon/access_icon.png"
+		},
+		{
+			"title": "VB语言程序设计",
+			"status": 1,
+			"url": "https://aivenli.github.io/cputest/vbs/list.json",
+			"iconUrl": "https://aivenli.github.io/cputest/icon/vbs_icon.png"
 		}
 	]
 }

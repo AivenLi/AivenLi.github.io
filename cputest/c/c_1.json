@@ -3,157 +3,134 @@
 	"msg": "success",
 	"data": [
 		{
-			"title": "下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题[image]图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
+			"title": "若有以下数组说明\nint a[12]={1,4,7,10,2,5,8,11,3,6,9,12};\n则i=10;a[a[i]]元素数值是（ ）。",
 			"mode": 0,
-			"answer": 0,
+			"answer": 1,
 			"answerList": null,
-			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
+			"imageUrl": null,
 			"chooseList": [
 				{
-					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
+					"title": "5",
 					"index": 0
 				},
 				{
-					"title": "B. 选B",
+					"title": "6",
 					"index": 1
 				},
 				{
-					"title": "C. 选C",
+					"title": "9",
 					"index": 2
 				},
 				{
-					"title": "D. 选D",
+					"title": "10",
 					"index": 3
 				}
-			]
-		},
-		{
-			"title": "[image]上图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题，图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
-			"mode": 0,
-			"answer": 0,
-			"answerList": null,
-			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.2qqtouxiang.com%2Fpic%2FBZ7187_09.jpg&refer=http%3A%2F%2Fimg.2qqtouxiang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665026279&t=fba21c98425bc2e497aaee6218969f3c",
-			"chooseList": [
-				{
-					"title": "A. 选A",
-					"index": 0
-				},
-				{
-					"title": "B. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
-					"index": 1
-				},
-				{
-					"title": "C. 选C",
-					"index": 2
-				}
-			]
-		},
-		{
-			"title": "下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题，图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。[image]",
-			"mode": 0,
-			"answer": 0,
-			"answerList": null,
-			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
-			"chooseList": [
-				{
-					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
-					"index": 0
-				},
-				{
-					"title": "B. 选B",
-					"index": 1
-				},
-				{
-					"title": "C. 选C",
-					"index": 2
-				},
-				{
-					"title": "D. 选D",
-					"index": 3
-				}
-			]
-		},
-		{
-			"title": "下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题[image]图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
-			"mode": 1,
-			"answer": 0,
-			"answerList": [
-				0,
-				3,
-				5
 			],
-			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
-			"chooseList": [
-				{
-					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
-					"index": 0
-				},
-				{
-					"title": "B. 选B",
-					"index": 1
-				},
-				{
-					"title": "C. 选C",
-					"index": 2
-				},
-				{
-					"title": "D. 选D",
-					"index": 3
-				},
-				{
-					"title": "D. 选E",
-					"index": 4
-				},
-				{
-					"title": "D. 选F",
-					"index": 5
-				},
-				{
-					"title": "D. 选G",
-					"index": 6
-				}
-			]
+			"parse":"a[10]=9，a[9]=6，答案为B。"
 		},
 		{
-			"title": "这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长下图为巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉示意图，请看图答题[image]图中巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉的是（）。",
-			"mode": 1,
-			"answer": 0,
-			"answerList": [
-				0,
-				3,
-				5
-			],
-			"imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftst.tsinghuajournals.com%2Ffileup%2F1007-0214%2FFIGURE%2F2017-22-1%2FImages%2FTST-2017-7830895-F001.jpg&refer=http%3A%2F%2Ftst.tsinghuajournals.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665025438&t=35042ab9c2b12a5dd5e98f851efc594a",
+			"title": "C语言程序从___开始执行。",
+			"mode": 0,
+			"answer": 2,
+			"answerList": null,
+			"imageUrl": null,
 			"chooseList": [
 				{
-					"title": "A. 这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的答案",
+					"title": "程序中第一条可执行语句",
 					"index": 0
 				},
 				{
-					"title": "B. 选B",
+					"title": "程序中第一个函数",
 					"index": 1
 				},
 				{
-					"title": "C. 选C",
+					"title": "程序中的main函数",
 					"index": 2
 				},
 				{
-					"title": "D. 选D",
+					"title": "包含文件中的第一个函数",
 					"index": 3
-				},
-				{
-					"title": "D. 选E",
-					"index": 4
-				},
-				{
-					"title": "D. 选F",
-					"index": 5
-				},
-				{
-					"title": "D. 选G",
-					"index": 6
 				}
-			]
+			],
+			"parse": null
+		},
+		{
+			"title": "若有语句：int a[10]; 则（ ）是对指针变量p的正确定义和初始化。",
+			"mode": 0,
+			"answer": 1,
+			"answerList": null,
+			"imageUrl": null,
+			"chooseList": [
+				{
+					"title": "int p=*a;",
+					"index": 0
+				},
+				{
+					"title": "int *p=a;",
+					"index": 1
+				},
+				{
+					"title": "int p=&a;",
+					"index": 2
+				},
+				{
+					"title": "int *p=&a;",
+					"index": 3
+				}
+			],
+			"parse": "选项A，a是数组名，不是指针变量名，因此不可用*修饰数组名a，错误；选项C，a数数组名，数组名就是地址（首元素地址），无需再用取地址符，而且在定义指针p时没有加上*，错误；选项D，a是数组名，数组名就是地址，不需要用取地址符，错误。"
+		},
+		{
+			"title": "语句int *p;说明了（ ）。",
+			"mode": 0,
+			"answer": 2,
+			"answerList": null,
+			"imageUrl": null,
+			"chooseList": [
+				{
+					"title": "p是指向一维数组的指针",
+					"index": 0
+				},
+				{
+					"title": "p是指向函数的指针，该函数返回int类型数据",
+					"index": 1
+				},
+				{
+					"title": "p是指向int类型数据的指针",
+					"index": 2
+				},
+				{
+					"title": "D. p是函数名，该函数返回一个指向int类型数据的指针",
+					"index": 3
+				}
+			],
+			"parse":"题目中除了定义一个int类型的指针p，并没有任何说明，A、B、D错误。"
+		},
+		{
+			"title": "若有以下语句\nstruct student {\nint num;\nchar name[10];\nfloat score;\n}stu;\n则下列的叙述不正确的是（ ）。",
+			"mode": 0,
+			"answer": 3,
+			"answerList": null,
+			"imageUrl": "",
+			"chooseList": [
+				{
+					"title": "struct是结构体类型的关键字",
+					"index": 0
+				},
+				{
+					"title": "struct student是用户定义的结构体类型",
+					"index": 1
+				},
+				{
+					"title": "num,score都是结构体成员名",
+					"index": 2
+				},
+				{
+					"title": "stu是用户定义的结构体类型名",
+					"index": 3
+				}
+			],
+			"parse":"结构体类型名是struct student，stu是结构体struct studnet类型的变量名。"
 		}
 	]
 }
