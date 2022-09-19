@@ -1,0 +1,22 @@
+{
+	"code": 0,
+	"msg": "success",
+	"data": [
+		{
+			"title": "Java语言程序设计真题练习1",
+			"url": "https://aivenli.github.io/cputest/java/java_1.json"
+		},
+		{
+			"title": "Java语言程序设计真题练习2",
+			"url": "https://aivenli.github.io/cputest/java/java_2.json"
+		},
+		{
+			"title": "Java语言程序设计真题练习3",
+			"url": "https://aivenli.github.io/cputest/java/java_3.json"
+		},
+		{
+			"title": "Java语言程序设计真题练习4",
+			"url": "https://aivenli.github.io/cputest/java/java_4.json"
+		}
+	]
+}
